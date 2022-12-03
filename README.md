@@ -1,6 +1,6 @@
 # good-button
 
-Webページに設置するGoodボタンのサンプルです。  
+Webページに設置するいいねボタンのサンプルです。  
 [いいねボタンのデモページ](https://good-button.vercel.app/)
 
 下記のリポジトリも合わせて参照ください。
